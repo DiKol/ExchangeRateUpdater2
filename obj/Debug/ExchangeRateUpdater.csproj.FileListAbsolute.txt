@@ -1,0 +1,6 @@
+C:\Users\Дмитро\Desktop\samples-master\ExchangeRateUpdater\bin\Debug\ExchangeRateUpdater.exe
+C:\Users\Дмитро\Desktop\samples-master\ExchangeRateUpdater\bin\Debug\ExchangeRateUpdater.pdb
+C:\Users\Дмитро\Desktop\samples-master\ExchangeRateUpdater\obj\Debug\ExchangeRateUpdater.csprojResolveAssemblyReference.cache
+C:\Users\Дмитро\Desktop\samples-master\ExchangeRateUpdater\obj\Debug\ExchangeRateUpdater.exe
+C:\Users\Дмитро\Desktop\samples-master\ExchangeRateUpdater\obj\Debug\ExchangeRateUpdater.pdb
+C:\Users\Дмитро\Desktop\samples-master\ExchangeRateUpdater\bin\Debug\ExchangeRateUpdater.exe.config
